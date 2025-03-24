@@ -6,3 +6,4 @@ module.exports = {
   },
   plugins: [],
 };
+// mongodb+srv://root:root@cluster0.mgvsu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
